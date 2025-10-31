@@ -6,6 +6,17 @@
 
 Привет! Я фронтенд разработчик, специализируюсь на JavaScript и React. Люблю создавать удобные и красивые интерфейсы. Раньше работал мед братом в больнице — это научило меня внимательности, ответственности и быстрому решению задач. Сейчас погружаюсь в мир веб-разработки и постоянно учусь новому. Рад знакомству и сотрудничеству!
 
+## 📫 Контакты:
+
+<p>
+    <a href="mailto:l4ught3r@mail.ru">
+        <img alt="Email" src="https://img.shields.io/badge/Email-l4ught3r@mail.ru-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://t.me/kuchinn">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+</p>
+
 ## 🛠️ Стек технологий:
 
 <p>
@@ -19,8 +30,7 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4ught3r&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
 </p>
-
-
