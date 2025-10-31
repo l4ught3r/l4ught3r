@@ -4,14 +4,6 @@
 
 ## 🛠️ Стек технологий:
 <p align="center">
-    <img src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?auto=format&fit=crop&w=1400&q=80" alt="header" width="100%" style="border-radius:12px;"/>
-</p>
-
-<h1 align="center">Привет — я Антон 👋</h1>
-
-<p align="center">Junior Frontend Developer — React + TypeScript. Люблю писать аккуратный, типизированный код и делать интерфейсы приятными для пользователей.</p>
-
-<p align="center">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
